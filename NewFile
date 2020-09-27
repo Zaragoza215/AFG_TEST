@@ -1,0 +1,3 @@
+var a = "Alfonso";
+string ciudad = Madrid;
+Console.WriteLine("Hello world, my name is: " a.ToString() + " " + "and my city is " + ciudad);
